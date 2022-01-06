@@ -1,0 +1,21 @@
+# Tags: latest, 7f939d3ed1b16fe97f39068337dab5938234c7fd
+FROM mozilla/location:latest
+FROM mozilla/location:7f939d3ed1b16fe97f39068337dab5938234c7fd
+
+# Tags: cf53bbeabf059aa9c763c435b562bce1bd34c1a4
+FROM mozilla/location:cf53bbeabf059aa9c763c435b562bce1bd34c1a4
+
+# Tags: ef97f8c079cc07f532b6d58dd848e2be4556843c
+FROM mozilla/location:ef97f8c079cc07f532b6d58dd848e2be4556843c
+
+# Tags: 82d9e40020d6a783213e523830177c49bdc21ee5
+FROM mozilla/location:82d9e40020d6a783213e523830177c49bdc21ee5
+
+# Tags: 485a5003d28d8a1a359e0561b44ab74b856cd1c0
+FROM mozilla/location:485a5003d28d8a1a359e0561b44ab74b856cd1c0
+
+# Tags: ef7bc7b151b6084d2a27307e6e6796fc2e03ac13
+FROM mozilla/location:ef7bc7b151b6084d2a27307e6e6796fc2e03ac13
+
+# Tags: db5cf0063a16610bcd9d004b51bf0daaa10d6b7a
+FROM mozilla/location:db5cf0063a16610bcd9d004b51bf0daaa10d6b7a
