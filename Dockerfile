@@ -16,9 +16,3 @@ FROM mozilla/location:4cc7d426e7381add62854afd7a4768c63d54f32a
 
 # Tags: d4cc2d1fe2b38a3fbc45399f1acd743d64c107ba
 FROM mozilla/location:d4cc2d1fe2b38a3fbc45399f1acd743d64c107ba
-
-# Tags: d88142848e57f521dc7cbeaa63fce7d3988e885a
-FROM mozilla/location:d88142848e57f521dc7cbeaa63fce7d3988e885a
-
-# Tags: 34d260937c5cc4db81bf0d443a52663968b813d1
-FROM mozilla/location:34d260937c5cc4db81bf0d443a52663968b813d1
